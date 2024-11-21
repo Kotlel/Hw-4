@@ -1,0 +1,7 @@
+E:\source\repos\ConsoleApp4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+E:\source\repos\ConsoleApp4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+E:\source\repos\ConsoleApp4\lab4\bin\Debug\lab4.exe.config
+E:\source\repos\ConsoleApp4\lab4\bin\Debug\lab4.exe
+E:\source\repos\ConsoleApp4\lab4\bin\Debug\lab4.pdb
+E:\source\repos\ConsoleApp4\lab4\obj\Debug\lab4.exe
+E:\source\repos\ConsoleApp4\lab4\obj\Debug\lab4.pdb
